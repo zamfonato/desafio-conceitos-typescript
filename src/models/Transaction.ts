@@ -1,5 +1,6 @@
 import { uuid } from 'uuidv4';
 
+// Entidade - Formato do dado de transação
 class Transaction {
   id: string;
 
